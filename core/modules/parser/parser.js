@@ -1,7 +1,8 @@
 var Parser = {
   commands: [],
+  orders: [],
   parse: function(string) {
-    var command = this.prepare(string, this.commands);
+    var command = this.prepare(string, this.orders);
     return this.run(command);
   },
   run: function(command) {
@@ -16,7 +17,7 @@ var Parser = {
         };
       case 'xdg-open':
         return {
-          type: 'commandSilent',
+          type: 'command',
           value: command.shift(),
           pars: command
         };
@@ -36,10 +37,10 @@ var Parser = {
         };
     }
   },
-  prepare: function(string, commands) {
+  prepare: function(string, orders) {
     var c = null;
-    for (var i = 0; i < commands.length; i++) {
-      if (c = this.fit(string, commands[i])) {
+    for (var i = 0; i < orders.length; i++) {
+      if (c = this.fit(string, orders[i])) {
         return c;
       }
     }
@@ -54,23 +55,17 @@ var Parser = {
     return null;
   }
 };
-Parser.commands.push({
-  request: new RegExp(
-    '(abra|abrir|mostre|mostrar) (o |a |os |as |um |uma |uns |umas |)(.*)'
-  ),
+Parser.orders.push({
+  request: /(abra|abrir|mostre|mostrar) (o |a |os |as |um |uma |uns |umas |)([^ ]*^)/,
   rep: '$3',
   command: 'xdg-open'
 }, {
-  request: new RegExp(
-    '(pesquise|pesquisar) (pelo |pela |por |o |a |os |as |um |uma |uns |umas |)(.*)'
-  ),
+  request: /(pesquise|pesquisar) (pelo|pela|por|o|a|os|as|um|uma|uns|umas|) *(.*)/,
   rep: 'http://google.com/search?q=$3',
   command: 'xdg-open'
 }, {
-  request: new RegExp(
-    '(wiki) (.*)'
-  ),
-  rep: 'https://pt.wikipedia.org/wiki/$2',
+  request: /(abra|abrir|mostre|mostrar|) *(o|a|os|as|um|uma|uns|umas|) *(wiki) (do |da |dos |das |)(.*)/,
+  rep: 'http://pt.wikipedia.org/wiki/$5',
   command: 'xdg-open'
 });
 module.exports = Parser;
