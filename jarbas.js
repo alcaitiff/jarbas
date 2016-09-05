@@ -1,6 +1,6 @@
 #!/usr/local/bin/node
  //Dependencies
-var clear = require('clear');
+//var clear = require('clear');
 var chalk = require('chalk');
 var inquirer = require('inquirer');
 inquirer.registerPrompt('input2', require('./ui/input.js'));
