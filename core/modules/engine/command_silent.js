@@ -2,13 +2,11 @@ var Status = require('../../status.js');
 var child_process = require('child_process');
 
 var Command = {
-  type: 'command',
+  type: 'commandSilent',
   run: function(r) {
-    child_process.spawnSync(r.value, r.pars, {
-      stdio: "inherit"
-    });
+    var ret = child_process.spawnSync(r.value, r.pars, {});
     return {
-      msg: '',
+      msg: ret.stdout.toString(),
       status: Status.OK
     };
   }

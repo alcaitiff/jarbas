@@ -1,5 +1,6 @@
 var Messages = require('../messages/messages.js');
 var Command = require('./command.js');
+var CommandSilent = require('./command_silent.js');
 var Exit = require('./exit.js');
 var Engine = {
   supported: {},
@@ -18,5 +19,6 @@ var Engine = {
   }
 };
 Engine.register(Command);
+Engine.register(CommandSilent);
 Engine.register(Exit);
 module.exports = Engine;

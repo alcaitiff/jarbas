@@ -14,13 +14,17 @@ var Jarbas = {
   toWork: function() {
     this.ui.ask(Messages.WHAT_CAN_I_DO, this.parse.bind(this));
   },
-  parse: function(awnser) {
-    var requisition = this.parser.parse(awnser);
-    var ret = this.engine.execute(requisition);
-    this.ui.say(ret.msg);
+  parse: function(str) {
+    var ret = this.doThis(str);
     if (ret.status != Status.EXIT) {
       this.toWork();
     }
+  },
+  doThis: function(str) {
+    var requisition = this.parser.parse(str);
+    var ret = this.engine.execute(requisition);
+    this.ui.say(ret.msg);
+    return ret;
   }
 };
 
