@@ -4,7 +4,7 @@ var clear = require('clear');
 var chalk = require('chalk');
 var inquirer = require('inquirer');
 inquirer.registerPrompt('input2', require('./ui/input.js'));
-//clear();
+clear();
 console.log(chalk.blue('Olá'));
 
 function ask() {
