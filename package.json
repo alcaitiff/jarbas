@@ -1,0 +1,30 @@
+{
+  "name": "jarbas",
+  "version": "1.0.0",
+  "description": "unix command helper",
+  "main": "jarbas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcaitiff/jarbas.git"
+  },
+  "keywords": [
+    "command",
+    "helper",
+    "cli"
+  ],
+  "author": "Alan Rabello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alcaitiff/jarbas/issues"
+  },
+  "homepage": "https://github.com/alcaitiff/jarbas#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "clui": "^0.3.1",
+    "inquirer": "^1.1.3"
+  }
+}
