@@ -3,14 +3,14 @@
 var clear = require('clear');
 var chalk = require('chalk');
 var inquirer = require('inquirer');
-
+inquirer.registerPrompt('input2', require('./ui/input.js'));
 //clear();
 console.log(chalk.blue('Olá'));
 
 function ask() {
   var question = [{
     name: 'q',
-    type: 'input',
+    type: 'input2',
     message: 'O que posso fazer por você? ',
     validate: function(value) {
       if (value.length) {
