@@ -1,0 +1,8 @@
+{
+  "type": ["greeting", "temporal"],
+  "patterns": [
+    ["bom", "dia"],
+    ["boa", "noite"],
+    ["boa", "tarde"]
+  ]
+}

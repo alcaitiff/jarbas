@@ -1,0 +1,8 @@
+{
+  "type": ["greeting"],
+  "patterns": [
+    ["oi"],
+    ["olá"],
+    ["e", "aí"]
+  ]
+}
