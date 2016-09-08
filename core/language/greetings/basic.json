@@ -1,8 +1,8 @@
 {
   "type": ["greeting"],
   "patterns": [
-    ["oi"],
-    ["olá"],
-    ["e", "aí"]
+    "oi|oi!|olá|olá!",
+    "e aí|aí?|aí!",
+    "e aí jarbas|jarbas!|amigo|amigo!"
   ]
 }

@@ -4,7 +4,7 @@
  */
 
 var b = require('inquirer/lib/prompts/input');
-var util = require('util');
+//var util = require('util');
 var chalk = require('chalk');
 
 var Prompt = module.exports = b;

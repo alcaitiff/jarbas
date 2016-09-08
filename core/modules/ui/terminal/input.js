@@ -5,7 +5,7 @@
 var Base = require('./base');
 var i = require('inquirer/lib/prompts/input');
 var util = require('util');
-var chalk = require('chalk');
+//var chalk = require('chalk');
 /**
  * Module exports
  */

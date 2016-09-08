@@ -1,9 +1,4 @@
 {
   "name": "salute",
-  "pattern": [{
-        ""
-        oi ","
-        olá ","
-        hi ","
-        e aí "]
-      }
+  "pattern": []
+}
