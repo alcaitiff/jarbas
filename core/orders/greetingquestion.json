@@ -1,0 +1,5 @@
+{
+  "name": "greetingQuestion",
+  "type": "chat",
+  "responses": ["eu estou bem", "comigo tudo bem e você?", "sim estou <$1>"]
+}

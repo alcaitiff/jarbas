@@ -2,6 +2,8 @@
   "type": "temporalGreeting",
   "patterns": [
     "bom dia|dia!",
+    "bom dia jarbas|jarbas!",
+    "boa noite|tarde jarbas|jarbas!",
     "boa noite|tarde|noite!|tarde!"
   ]
 }

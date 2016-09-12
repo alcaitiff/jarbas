@@ -1,0 +1,5 @@
+{
+  "name": "greeting",
+  "type": "chat",
+  "responses": ["olá!", "olá <NAME>!", "oi!"]
+}

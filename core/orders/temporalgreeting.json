@@ -1,0 +1,5 @@
+{
+  "name": "temporalGreeting",
+  "type": "chat",
+  "responses": ["<TEMPORAL_GREETING>"]
+}

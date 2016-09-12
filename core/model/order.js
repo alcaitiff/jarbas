@@ -13,13 +13,14 @@ var orderSchema = new Schema({
     required: true,
     unique: false
   },
-  response: {
+  responses: [{
     type: String,
     required: true,
     unique: false
-  }
+  }]
+
 });
 
-var Pattern = mongoose.model('Pattern', patternSchema);
+var Order = mongoose.model('Order', orderSchema);
 
-module.exports = Pattern;
+module.exports = Order;

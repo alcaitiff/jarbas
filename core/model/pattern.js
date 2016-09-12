@@ -12,7 +12,19 @@ var patternSchema = new Schema({
     type: String,
     required: true,
     unique: true
+  },
+  words: {
+    type: Array,
+    required: true,
+    unique: false
+  },
+  order: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: 'Order',
+    required: true,
+    unique: false
   }
+
 });
 
 var Pattern = mongoose.model('Pattern', patternSchema);
