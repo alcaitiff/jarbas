@@ -9,7 +9,11 @@ var Expander = {
       return str.split('|');
     }
   },
-  expand: function(p, r) {
+  expand: function(string) {
+    return this._expand(string.split(' '), []);
+  },
+  _expand: function(p, r) {
+    r = r || [];
     if (!p.length) {
       return r;
     }
@@ -17,7 +21,7 @@ var Expander = {
     var parsed = this.parse(first);
     if (!r.length) {
       r = parsed;
-      return this.expand(p, r);
+      return this._expand(p, r);
     } else {
       var results = [];
       for (var i = 0; i < r.length; i++) {
@@ -25,7 +29,7 @@ var Expander = {
           results.push((r[i] + ' ' + parsed[j]).trim());
         }
       }
-      return this.expand(p, results);
+      return this._expand(p, results);
     }
   }
 };

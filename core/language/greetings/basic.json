@@ -1,5 +1,5 @@
 {
-  "type": ["greeting"],
+  "type": "greeting",
   "patterns": [
     "oi|oi!|olá|olá!",
     "e aí|aí?|aí!",

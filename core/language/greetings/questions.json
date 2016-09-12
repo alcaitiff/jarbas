@@ -1,10 +1,10 @@
 {
-  "type": ["greetingQuestion"],
+  "type": "greetingQuestion",
   "patterns": [
     "como [vc|você] está?|vai?",
     "como [vc|você] está|vai jarbas?|amigo?",
     "tudo tranquilo|legal|bem jarbas?|amigo?",
     "tranquilo?",
-    "tranquilo jarbas?|amigo?",
+    "tranquilo jarbas?|amigo?"
   ]
 }
