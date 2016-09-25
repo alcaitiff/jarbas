@@ -1,3 +1,6 @@
+25/09/2016
+O leitor está no início, preciso resolver o problema das chamadas assíncronas de escrita e leitura com o mongoose.
+Aparentemente ele está tentando achar palavaras que estão na fila para serem salvas e não está encontrando.
 24/09/2016
 Criado o diretório de palavras "words"
 Adicionados os arquivos de artigos, preposições e o início dos pronomes.
