@@ -1,0 +1,251 @@
+substantivo
+	gênero
+	plural
+	informações
+
+adjetivo
+	informações
+	plural
+	derivações de gênero
+
+comparativos
+	[
+		tão (adj) como,
+		mais (do) que,
+		menos (do) que,
+		maior (do) que,
+		menor (do) que,
+		superior ao,
+		inferior ao,
+		melhor (do) que,
+		pior (do) que
+	]
+
+numeral
+	[nome, valor, ordinal, gênero, plural]
+
+conjunção:{
+	aditivas[e, nem, mas também, como também, além de (disso, disto, aquilo), tanto... quanto, bem como]
+	adversativas[mas, porém, todavia, entretanto,mesmo assim, no entanto, senão, não obstante, contudo]
+	conclusivas[logo, por isso, pois (depois do verbo), portanto, por conseguinte, assim]
+	alternativas[ou, ou...ou, ora, já...já, quer... quer, seja... seja, talvez... talvez, não... nem]
+	explicativas[que, porque, porquanto, pois, por isso (anteposta ao verbo), já que, visto que, como]
+}
+
+pronomes
+	pessoa
+	classificação:{
+
+		,
+		possessivos:{
+			[meu,minha,teu,tua,seu,sua,nosso,nossa,vosso,vossa]
+		},
+		demonstrativos:{
+			[este,esse,aquele,esta,essa,aquela,isto,isso,aquilo,mesmo,mesma,semelhante,tal,tais,próprio,próprios,deste,desta,disso,nisso,naquilo,naquela,neste,nesta,nesse,nessa]
+		},
+		indefinidos:{
+			[algo, alguém, fulano, sicrano, beltrano, nada, ninguém, outrem, quem, tudo,cada, certo(s), certa(s),algum, alguns, alguma(s), bastante(s) (= muito, muitos), demais, mais, menos, muito(s), muita(s), nenhum, nenhuns, nenhuma(s), outro(s), outra(s), pouco(s), pouca(s), qualquer, quaisquer, qual, que, quanto(s), quanta(s), tal, tais, tanto(s), tanta(s), todo(s), toda(s), um, uns, uma(s), vários, várias]
+
+
+	Variáveis						Invariáveis
+
+	Singular			Plural
+
+Masculino	Feminino	Masculino	Feminino
+
+algum
+nenhum
+todo
+muito
+pouco
+vário
+tanto
+outro
+quanto
+
+		alguma
+		nenhuma
+		toda
+		muita
+		pouca
+		vária
+		tanta
+		outra
+		quanta
+
+				alguns
+				nenhuns
+				todos
+				muitos
+				poucos
+				vários
+				tantos
+				outros
+				quantos
+
+						algumas
+						nenhumas
+						todas
+						muitas
+						poucas
+						várias
+						tantas
+						outras
+						quantas
+
+								alguém
+								ninguém
+								outrem
+								tudo
+								nada
+								algo
+								cada
+
+qualquer				quaisquer
+
+
+
+
+
+		},
+		relativos:{
+
+		Quadro dos Pronomes Relativos
+
+	Variáveis			Invariáveis
+
+Masculino	Feminino
+
+o qual
+cujo
+quanto
+os quais
+cujos
+quantos		a qual
+		cuja
+		quanta
+		as quais
+		cujas
+		quantas			quem
+					que
+					onde
+
+		},
+		interrogativos:{
+			[que, quem, qual (e variações), quanto (e variações)]
+		}
+	}
+
+verbo:{
+	tempos
+	acões
+}
+verbos auxiliares:{
+
+}
+adverbios:{
+
+Tempo: //Ela chegou tarde.
+
+Lugar: //Ele mora aqui.
+
+Modo: //Eles agiram mal.
+
+Negação: //Ela não saiu de casa.
+
+Dúvida: //Talvez ele volte
+
+
+Classificação dos Advérbios
+
+De acordo com a circunstância que exprime, o advérbio pode ser de:
+
+Lugar: aqui, antes, dentro, ali, adiante, fora, acolá, atrás, além, lá, detrás, aquém, cá, acima, onde, perto, aí, abaixo, aonde, longe, debaixo, algures, defronte, nenhures, adentro, afora, alhures, nenhures, aquém, embaixo, externamente, a distância, à distância de, de longe, de perto, em cima, à direita, à esquerda, ao lado, em volta.
+
+Tempo: hoje, logo, primeiro, ontem, tarde, outrora, amanhã, cedo, dantes, depois, ainda, antigamente, antes, doravante, nunca, então, ora, jamais, agora, sempre, já, enfim, afinal, amiúde, breve, constantemente, entrementes, imediatamente, primeiramente, provisoriamente, sucessivamente, às vezes, à tarde, à noite, de manhã, de repente, de vez em quando, de quando em quando, a qualquer momento, de tempos em tempos, em breve, hoje em dia.
+
+Modo: bem, mal, assim, adrede, melhor, pior, depressa, acinte, debalde, devagar, às pressas, às claras, às cegas, à toa, à vontade, às escondidas, aos poucos, desse jeito, desse modo, dessa maneira, em geral, frente a frente, lado a lado, a pé, de cor, em vão e a maior parte dos que terminam em "-mente": calmamente, tristemente, propositadamente, pacientemente, amorosamente, docemente, escandalosamente, bondosamente, generosamente.
+
+Afirmação: sim, certamente, realmente, decerto, efetivamente, certo, decididamente, deveras, indubitavelmente.
+
+Negação: não, nem, nunca, jamais, de modo algum, de forma nenhuma, tampouco, de jeito nenhum.
+
+Dúvida: acaso, porventura, possivelmente, provavelmente, quiçá, talvez, casualmente, por certo, quem sabe.
+
+Intensidade: muito, demais, pouco, tão, em excesso, bastante, mais, menos, demasiado, quanto, quão, tanto, assaz, que (equivale a quão), tudo, nada, todo, quase, de todo, de muito, por completo, extremamente, intensamente, grandemente, bem (quando aplicado a propriedades graduáveis).
+
+Exclusão: apenas, exclusivamente, salvo, senão, somente, simplesmente, só, unicamente.
+Por exemplo: Brando, o vento apenas move a copa das árvores.
+
+Inclusão: ainda, até, mesmo, inclusivamente, também.
+Por exemplo: O indivíduo também amadurece durante a adolescência.
+
+Ordem: depois, primeiramente, ultimamente.
+
+Advérbios Interrogativos
+onde? aonde? donde? quando? como? por que?
+}
+
+Palavras ou expressões denotativas:{
+
+adição: ainda, além disso
+afastamento: embora
+inclusão: até, inclusive, mesmo, também, ainda, ademais, além disso, de mais a mais, etc.
+exclusão: apenas, salvo, senão, só, somente, exclusive, menos, exceto, fora, tirante, sequer, etc.
+realce: cá, lá, que, é que, só, se, mesmo, embora, sobretudo, etc.
+retificação: aliás, ou antes, isto é, ou seja, etc.
+situação: afinal, agora, então, etc.
+afetividade: felizmente, infelizmente
+explanação: (explicação): isto é, a saber, por exemplo, etc.
+designação: eis.
+aproximação: quase, por volta de, cerca de, perto de, uns, bem, lá por
+limitação: apenas, unicamente, somente, só
+//outra lista
+Adição - e, nem, pois, além disso, e ainda, não só…mas também, como ainda, bem como…assim como, por um lado…por outro lado, depois, logo após, finalmente, em primeiro lugar, em segundo lugar, do mesmo modo, igualmente, de igual modo, do mesmo modo, da mesma maneira, de igual maneira, de novo, novamente, também, primeiramente, da mesma forma, de igual forma, ultimamente, opostamente, de modo oposto, de maneira oposta, por último…
+Alternativa - ou, ora…ora, quer…quer, ou…ou, em alternativa…
+Certeza - certamente, é evidente que, com certeza, decerto, naturalmente, que, sem dúvida, sem dúvida que, de certo, é óbvio que, evidentemente, obviamente, verdadeiramente, de verdade, verdadeiro, realmente, exato, exatamente, com exatidão…
+Comparação - como, também, conforme, tanto…quanto, tal como, assim como, bem como, pela mesma razão, de forma idêntica, de forma similar…
+Concessão - embora, mesmo que, se bem que, apesar de, ainda assim, ainda que, por mais que, mesmo assim, de qualquer forma, posto que…
+Conclusão / síntese / resumo - pois, portanto, por conseguinte, assim, logo, enfim, concluindo, conclusivamente, em conclusão, em síntese, consequentemente, em consequência, por outras palavras, ou seja, em resumo, ou melhor, pois, por isso, desde modo, em suma, sintetizando, finalizando…
+Condição - Se, caso, a menos que, salvo que, exceto se, a não ser que, desde que, contanto que, só se…
+Confirmação - com efeito, efectivamente, na verdade, de facto, factualmente, verdade, verdadeiramente, óbvio, obviamente…
+Consequência - Pelo que, do modo que, de tal forma que, daí que, tanto…que, por tudo isso, consequentemente, por conseguinte, como consequência…
+Dúvida - Talvez, possivelmente, provavelmente, é possível que, é provável que, por ventura, acaso…
+Explicitação / particularização - quer isto dizer, isto (não) significa que, por outras palavras, isto é, por exemplo, ou seja, é o caso de, nomeadamente, em particular, a saber, entre outros, especificamente…
+Finalidade / intencionalidade: - como fim de, com intuito, para (que), a fim de, com o objetivo de, de forma a, com o fim / com o objetivo de / com o propósito de / com intuito de / com a intenção de…
+Opinião - na minha opinião, a meu ver, em meu entender, parece-me que, estou em crer que…
+Oposição/ contraste mas, porém, todavia, contudo, no entanto, contrariamente, em vez de, ao invés de, pelo contrário, por oposição, oposto, opostamente, entretanto, doutro modo, ao contrário, não obstante, por outro lado…
+Reafirmação / confirmação / resumo - ou seja, ou melhor, por outras palavras, com efeito, efetivamente, na verdade, de fato, de tato, em suma, em resumo, resumidamente…
+Reformulação - quer dizer, mais corretamente, mais precisamente, ou melhor, dito de outro modo, numa palavra, noutros termos, por outras palavras…
+Seqüência - começando, primeiramente, para começar, em primeiro lugar, num primeiro momento, antes de, em segundo lugar, em seguida, logo após, depois de, por último, concluindo, para terminar, em conclusão, em síntese, finalizando…
+Sequência temporal - Depois, então, após, de seguida, dias mais tarde, meses depois, anos após, agora já, antes, até que…
+Sequência espacial - à esquerda, à direita, à frente, atrás, sobre, sob, de um lado, de outro lado, em cima, no meio, embaixo, naquele sítio…
+Tempo - quando, logo, que, depois que, enquanto, assim que, desde que…
+
+}
+
+=========================================================================================================================
+
+
+artigo definido
+	[o,a,os,as]
+		gênero
+		plural
+
+artigo indefinido
+	[um,uma,uns,umas]
+		gênero
+		plural
+
+preposição
+	[
+		{a:{singular:[ao,à,null,null]}},
+		{de:{singular:[do,da,dum,duma]}},
+		{em:{singular:[no,na,num,numa]}},
+		{por:{singular:[pelo,pela,null,null]}}
+	]
+pronomes
+pessoais:
+  {reto:[eu,tu,você,ele,ela,nós,vós,eles,elas]},
+  {oblíquo átono:[me,te,o,a,lhe,nos,vos,os,as,lhes]},
+  {oblíquo tônico:[mim,comigo,ti,contigo,ele,ela,consigo,nós,conosco,vós convosco,eles,elas]}

@@ -14,7 +14,8 @@ Prompt.prototype.getQuestion = function() {
 
   // Append the default if available, and if question isn't answered
   if (this.opt.default != null && this.status !== 'answered') {
-    message += chalk.dim('(' + this.opt.default+') ');
+    var c = this.opt.default;
+    message += chalk.dim('(' + c + ')');
   }
 
   return message;

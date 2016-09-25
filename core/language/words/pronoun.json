@@ -1,0 +1,73 @@
+{
+  "words": [{
+    "eu": ["pronome", "pessoal", "reto", "singular", "invariável", "primeira", "pessoa"]
+  }, {
+    "tu": ["pronome", "pessoal", "reto", "singular", "invariável", "segunda", "pessoa"]
+  }, {
+    "você": ["pronome", "pessoal", "reto", "singular", "invariável", "segunda", "pessoa"]
+  }, {
+    "vc": ["pronome", "pessoal", "reto", "singular", "invariável", "segunda", "pessoa"]
+  }, {
+    "ele": ["pronome", "pessoal", "reto", "singular", "masculino", "terceira", "pessoa"]
+  }, {
+    "ela": ["pronome", "pessoal", "reto", "singular", "feminino", "terceira", "pessoa"]
+  }, {
+    "nós": ["pronome", "pessoal", "reto", "plural", "invariável", "primeira", "pessoa"]
+  }, {
+    "vós": ["pronome", "pessoal", "reto", "plural", "invariável", "segunda", "pessoa"]
+  }, {
+    "vocês": ["pronome", "pessoal", "reto", "plural", "invariável", "segunda", "pessoa"]
+  }, {
+    "vcs": ["pronome", "pessoal", "reto", "plural", "invariável", "segunda", "pessoa"]
+  }, {
+    "eles": ["pronome", "pessoal", "reto", "plural", "masculino", "terceira", "pessoa"]
+  }, {
+    "elas": ["pronome", "pessoal", "reto", "plural", "feminino", "terceira", "pessoa"]
+  }, {
+    "me": ["pronome", "pessoal", "oblíquo", "átono", "singular", "invariável", "primeira", "pessoa"]
+  }, {
+    "te": ["pronome", "pessoal", "oblíquo", "átono", "singular", "invariável", "segunda", "pessoa"]
+  }, {
+    "o": ["pronome", "pessoal", "oblíquo", "átono", "singular", "masculino", "terceira", "pessoa"]
+  }, {
+    "a": ["pronome", "pessoal", "oblíquo", "átono", "singular", "feminino", "terceira", "pessoa"]
+  }, {
+    "lhe": ["pronome", "pessoal", "oblíquo", "átono", "singular", "invariável", "terceira", "pessoa"]
+  }, {
+    "nos": ["pronome", "pessoal", "oblíquo", "átono", "plural", "invariável", "primeira", "pessoa"]
+  }, {
+    "vos": ["pronome", "pessoal", "oblíquo", "átono", "plural", "invariável", "segunda", "pessoa"]
+  }, {
+    "os": ["pronome", "pessoal", "oblíquo", "átono", "plural", "masculino", "terceira", "pessoa"]
+  }, {
+    "as": ["pronome", "pessoal", "oblíquo", "átono", "plural", "feminino", "terceira", "pessoa"]
+  }, {
+    "lhes": ["pronome", "pessoal", "oblíquo", "átono", "plural", "invariável", "terceira", "pessoa"]
+  }, {
+    "mim": ["pronome", "pessoal", "oblíquo", "tônico", "singular", "invariável", "primeira", "pessoa"]
+  }, {
+    "comigo": ["pronome", "pessoal", "oblíquo", "tônico", "singular", "invariável", "primeira", "pessoa"]
+  }, {
+    "ti": ["pronome", "pessoal", "oblíquo", "tônico", "singular", "invariável", "segunda", "pessoa"]
+  }, {
+    "contigo": ["pronome", "pessoal", "oblíquo", "tônico", "singular", "invariável", "segunda", "pessoa"]
+  }, {
+    "ele": ["pronome", "pessoal", "oblíquo", "tônico", "singular", "masculino", "terceira", "pessoa"]
+  }, {
+    "ela": ["pronome", "pessoal", "oblíquo", "tônico", "singular", "feminino", "terceira", "pessoa"]
+  }, {
+    "consigo": ["pronome", "pessoal", "oblíquo", "tônico", "singular", "invariável", "terceira", "pessoa"]
+  }, {
+    "nós": ["pronome", "pessoal", "oblíquo", "tônico", "plural", "invariável", "primeira", "pessoa"]
+  }, {
+    "conosco": ["pronome", "pessoal", "oblíquo", "tônico", "plural", "invariável", "primeira", "pessoa"]
+  }, {
+    "vós": ["pronome", "pessoal", "oblíquo", "tônico", "plural", "invariável", "segunda", "pessoa"]
+  }, {
+    "convosco": ["pronome", "pessoal", "oblíquo", "tônico", "plural", "invariável", "segunda", "pessoa"]
+  }, {
+    "eles": ["pronome", "pessoal", "oblíquo", "tônico", "plural", "masculino", "terceira", "pessoa"]
+  }, {
+    "elas": ["pronome", "pessoal", "oblíquo", "tônico", "plural", "feminino", "terceira", "pessoa"]
+  }]
+}

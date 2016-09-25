@@ -1,0 +1,19 @@
+{
+  "words": [{
+    "o": ["artigo", "definido", "singular", "masculino"]
+  }, {
+    "os": ["artigo", "definido", "plural", "masculino"]
+  }, {
+    "a": ["artigo", "definido", "singular", "feminino"]
+  }, {
+    "as": ["artigo", "definido", "plural", "feminino"]
+  }, {
+    "um": ["artigo", "indefinido", "singular", "masculino"]
+  }, {
+    "uns": ["artigo", "indefinido", "plural", "masculino"]
+  }, {
+    "uma": ["artigo", "indefinido", "singular", "feminino"]
+  }, {
+    "umas": ["artigo", "indefinido", "plural", "feminino"]
+  }]
+}

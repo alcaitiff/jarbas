@@ -1,0 +1,59 @@
+{
+  "words": [{
+    "de": ["preposição"]
+  }, {
+    "a": ["preposição"]
+  }, {
+    "em": ["preposição"]
+  }, {
+    "por": ["preposição"]
+  }, {
+    "do": ["preposição+artigo", "definido", "singular", "masculino"]
+  }, {
+    "dos": ["preposição+artigo", "definido", "plural", "masculino"]
+  }, {
+    "da": ["preposição+artigo", "definido", "singular", "feminino"]
+  }, {
+    "das": ["preposição+artigo", "definido", "plural", "feminino"]
+  }, {
+    "dum": ["preposição+artigo", "indefinido", "singular", "masculino"]
+  }, {
+    "duns": ["preposição+artigo", "indefinido", "plural", "masculino"]
+  }, {
+    "duma": ["preposição+artigo", "indefinido", "singular", "feminino"]
+  }, {
+    "dumas": ["preposição+artigo", "indefinido", "plural", "feminino"]
+  }, {
+    "ao": ["preposição+artigo", "definido", "singular", "masculino"]
+  }, {
+    "aos": ["preposição+artigo", "definido", "plural", "masculino"]
+  }, {
+    "à": ["preposição+artigo", "definido", "singular", "feminino"]
+  }, {
+    "às": ["preposição+artigo", "definido", "plural", "feminino"]
+  }, {
+    "no": ["preposição+artigo", "definido", "singular", "masculino"]
+  }, {
+    "nos": ["preposição+artigo", "definido", "plural", "masculino"]
+  }, {
+    "na": ["preposição+artigo", "definido", "singular", "feminino"]
+  }, {
+    "nas": ["preposição+artigo", "definido", "plural", "feminino"]
+  }, {
+    "num": ["preposição+artigo", "indefinido", "singular", "masculino"]
+  }, {
+    "nuns": ["preposição+artigo", "indefinido", "plural", "masculino"]
+  }, {
+    "numa": ["preposição+artigo", "indefinido", "singular", "feminino"]
+  }, {
+    "numas": ["preposição+artigo", "indefinido", "plural", "feminino"]
+  }, {
+    "pelo": ["preposição+artigo", "definido", "singular", "masculino"]
+  }, {
+    "pelos": ["preposição+artigo", "definido", "plural", "masculino"]
+  }, {
+    "pela": ["preposição+artigo", "definido", "singular", "feminino"]
+  }, {
+    "pelas": ["preposição+artigo", "definido", "plural", "feminino"]
+  }]
+}

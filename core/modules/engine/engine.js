@@ -18,6 +18,7 @@ var Engine = {
     }
   }
 };
+//TODO:read it from somewhere
 Engine.register(Command);
 Engine.register(CommandSilent);
 Engine.register(Exit);

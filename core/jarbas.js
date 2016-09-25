@@ -16,6 +16,7 @@ var Jarbas = {
   },
   parse: function(str) {
     var ret = this.doThis(str);
+    //FIXME: toWork must control the ret.status
     if (ret.status != Status.EXIT) {
       this.toWork();
     }

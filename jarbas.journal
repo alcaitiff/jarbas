@@ -1,0 +1,21 @@
+24/09/2016
+Criado o diretório de palavras "words"
+Adicionados os arquivos de artigos, preposições e o início dos pronomes.
+A idéia é identificar os grupos dos termos da sentença para testar contra as sentenças armazenadas que estão
+vinculadas com as "orders" que são traduzidas em comandos.
+Se a sentença for "eu quero algo" ela pode ser traduzida em
+["eu","quero","algo"]
+["*","*","*"]
+["<pronome_pessoal_reto_invariável_singular_primeira_pessoa>","quero","<substantivo>"]
+para pesquisar a sentença precisamos saber se a senteça aceita
+"eu","*" ou um conjunto que está dentro do conjunto [pronome,pessoal,reto,invariável,singular,primeira,pessoa]
+sentenças válidas: "* quero algo", "<pronome_primeira_pessoa_singular> quero *" etc
+
+Preciso criar o leitor dos json de words e adicionar os arquivos existentes no mongodb
+Depois testar as buscas com essas verificações entre os conjuntos
+Em seguida fazer a busca de palavras para decodificação das senteças
+Por fim validar as sentenças com os dados existentes
+Então poderei adicionar mais dados ao banco e criar mais sentenças
+Com essa parte funcionando tenho que focar nos comandos de aprendizado
+AQUI JARBAS NASCE
+Quando os comandos de aprendizado começarem a funcionar devo criar um método de exportação do banco para reuso
